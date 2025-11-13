@@ -1,4 +1,4 @@
-ini adalah project git pertama saya
+ini adalah project git kedua saya
 
 ini adalah perubahan pertama saya di branch
 
