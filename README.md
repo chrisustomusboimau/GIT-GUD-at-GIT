@@ -1,4 +1,4 @@
-ini adalah project git ketiga saya
+ini adalah project git ketiga kami
 
 ini adalah perubahan pertama saya di branch
 
